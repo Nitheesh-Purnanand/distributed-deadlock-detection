@@ -3,6 +3,8 @@
 #include <vector>
 #include <mutex>
 using namespace std;
+
+// g++ -pthread race_condition.cpp -o race_condition      
 //adding atomic to fix the race condition
 // #include <atomic>
 // atomic<int> counter = 0;
