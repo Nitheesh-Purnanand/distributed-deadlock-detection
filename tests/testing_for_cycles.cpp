@@ -6,7 +6,7 @@
 #include <vector>
 
 // -------------------- Part A: RAG --------------------
-
+//g++ -std=c++17 -Wall -Wextra testing_for_cycles.cpp -o testing_for_cycles
 struct Process { std::string id; };
 struct Resource { std::string id; };
 

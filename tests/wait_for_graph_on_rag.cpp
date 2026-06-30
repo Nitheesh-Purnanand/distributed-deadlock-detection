@@ -6,7 +6,7 @@ using namespace std;
 struct Process {
     string id;
 };
-
+//g++ wait_for_graph_on_rag.cpp -o wfg 
 struct Resource {
     string id;
 };

@@ -4,7 +4,7 @@
 #include <set>
 #include <string>
 #include <vector>
-
+//g++ -std=c++17 -Wall -Wextra dfs.cpp -o dfs
 struct Process {
     std::string id;
 };

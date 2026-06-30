@@ -3,7 +3,7 @@
 #include <set>
 #include <string>
 using namespace std;
-
+//g++ resource_allocation_graph_design.cpp -o simple_demo
 struct Process {
     string id;
 };
